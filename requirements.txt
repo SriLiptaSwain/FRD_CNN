@@ -1,0 +1,6 @@
+easydict
+joblib
+numpy
+opencv-python
+Pillow
+tensorflow-gpu
